@@ -1,0 +1,5 @@
+print("sandra sunil")
+print("25")
+print("alappuzha")
+print("btech")
+print("mahaguru institute of technology")
